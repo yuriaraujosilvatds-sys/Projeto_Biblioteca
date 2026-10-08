@@ -1,4 +1,4 @@
-Namespace Bibliotecos Modelos{
+Namespace SisBib Modelos{
 
    public class Livro{
 
